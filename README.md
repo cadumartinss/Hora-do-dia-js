@@ -1,2 +1,2 @@
 # Hora-do-dia-js
-JavaScript
+JavaScript, Html and Css
