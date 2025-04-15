@@ -1,4 +1,5 @@
 🕒 Projeto Hora do Dia
+
 Este é um projeto simples em HTML, CSS e JavaScript que exibe dinamicamente a hora atual e altera a imagem e o fundo da página conforme o período do dia (manhã, tarde ou noite).
 
 🔍 Funcionalidades
