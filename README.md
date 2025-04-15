@@ -23,4 +23,5 @@ Este é um projeto simples em HTML, CSS e JavaScript que exibe dinamicamente a h
 - JavaScript para lógica dinâmica de atualização de conteúdo e estilo.
 
 👨‍💻 Autor
+
 Carlos Martins
